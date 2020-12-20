@@ -1,2 +1,2 @@
-# Know-your-emotions-App
+# Flags
 Created with CodeSandbox
